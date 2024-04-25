@@ -1,0 +1,807 @@
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "Error during datasource initialization"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "error",
+    "message": "Error calling getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "error",
+    "message": "Error calling getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "error",
+    "message": "Error calling getAllCourses()"
+}
+{
+    "error": "Thrown Error!",
+    "level": "error",
+    "message": "Default error handler triggered; reason: "
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called findCourseByUrl"
+}
+{
+    "level": "error",
+    "message": "Error calling findCourseByUrl()"
+}
+{
+    "code": "42P01",
+    "driverError": {
+        "code": "42P01",
+        "file": "parse_relation.c",
+        "length": 119,
+        "line": "3648",
+        "name": "error",
+        "position": "57",
+        "routine": "errorMissingRTE",
+        "severity": "ERROR"
+    },
+    "file": "parse_relation.c",
+    "length": 119,
+    "level": "error",
+    "line": "3648",
+    "message": "Default error handler triggered; reason:  missing FROM-clause entry for table \"lesssons\"",
+    "parameters": [
+        52
+    ],
+    "position": "57",
+    "query": "SELECT COUNT(1) AS \"cnt\" FROM \"LESSONS\" \"lessons\" WHERE lesssons.courseId = $1",
+    "routine": "errorMissingRTE",
+    "severity": "ERROR",
+    "stack": "QueryFailedError: missing FROM-clause entry for table \"lesssons\"\n    at PostgresQueryRunner.query (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\driver\\postgres\\PostgresQueryRunner.js:219:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SelectQueryBuilder.loadRawResults (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:2192:25)\n    at async SelectQueryBuilder.executeCountQuery (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:1712:25)\n    at async SelectQueryBuilder.getCount (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:770:29)"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called findCourseByUrl"
+}
+{
+    "level": "debug",
+    "message": "Called findCourseByUrl"
+}
+{
+    "level": "error",
+    "message": "Could not find a course with url typescript-bootcamp-v2"
+}
+{
+    "level": "debug",
+    "message": "Called findCourseByUrl"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called findLessonsForCourse()"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "debug",
+    "message": "Called findLessonsForCourse()"
+}
+{
+    "level": "debug",
+    "message": "Called findLessonsForCourse()"
+}
+{
+    "level": "debug",
+    "message": "Called findLessonsForCourse()"
+}
+{
+    "level": "debug",
+    "message": "Called findLessonsForCourse()"
+}
+{
+    "level": "debug",
+    "message": "Called findLessonsForCourse()"
+}
+{
+    "level": "debug",
+    "message": "Called findLessonsForCourse()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called findLessonsForCourse()"
+}
+{
+    "level": "debug",
+    "message": "Called findLessonsForCourse()"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "debug",
+    "message": "Called updateCourse()"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called createCourse()"
+}
+{
+    "level": "error",
+    "message": "Error calling createCourse()"
+}
+{
+    "code": "42601",
+    "driverError": {
+        "code": "42601",
+        "file": "scan.l",
+        "length": 91,
+        "line": "1241",
+        "name": "error",
+        "position": "30",
+        "routine": "scanner_yyerror",
+        "severity": "ERROR"
+    },
+    "file": "scan.l",
+    "length": 91,
+    "level": "error",
+    "line": "1241",
+    "message": "Default error handler triggered; reason:  syntax error at or near \"AS\"",
+    "parameters": [],
+    "position": "30",
+    "query": "SELECT MAX(\"courses\".\"seqNo\" AS \"max\" FROM \"COURSES\" \"courses\"",
+    "routine": "scanner_yyerror",
+    "severity": "ERROR",
+    "stack": "QueryFailedError: syntax error at or near \"AS\"\n    at PostgresQueryRunner.query (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\driver\\postgres\\PostgresQueryRunner.js:219:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SelectQueryBuilder.loadRawResults (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:2192:25)\n    at async SelectQueryBuilder.getRawMany (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:646:29)\n    at async SelectQueryBuilder.getRawOne (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:628:17)"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "body": "\"url\": \"firebase-bootcamp\"",
+    "expose": true,
+    "level": "error",
+    "message": "Default error handler triggered; reason:  Unexpected token '\"', \"\"url\": \"fi\"... is not valid JSON",
+    "stack": "SyntaxError: Unexpected token '\"', \"\"url\": \"fi\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at createStrictSyntaxError (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\body-parser\\lib\\types\\json.js:169:10)\n    at parse (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\body-parser\\lib\\types\\json.js:86:15)\n    at C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)",
+    "status": 400,
+    "statusCode": 400,
+    "type": "entity.parse.failed"
+}
+{
+    "body": "\"url\": \"firebase-bootcamp\"",
+    "expose": true,
+    "level": "error",
+    "message": "Default error handler triggered; reason:  Unexpected token '\"', \"\"url\": \"fi\"... is not valid JSON",
+    "stack": "SyntaxError: Unexpected token '\"', \"\"url\": \"fi\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at createStrictSyntaxError (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\body-parser\\lib\\types\\json.js:169:10)\n    at parse (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\body-parser\\lib\\types\\json.js:86:15)\n    at C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)",
+    "status": 400,
+    "statusCode": 400,
+    "type": "entity.parse.failed"
+}
+{
+    "level": "debug",
+    "message": "Called createCourse()"
+}
+{
+    "level": "error",
+    "message": "Error calling createCourse()"
+}
+{
+    "code": "42601",
+    "driverError": {
+        "code": "42601",
+        "file": "scan.l",
+        "length": 91,
+        "line": "1241",
+        "name": "error",
+        "position": "30",
+        "routine": "scanner_yyerror",
+        "severity": "ERROR"
+    },
+    "file": "scan.l",
+    "length": 91,
+    "level": "error",
+    "line": "1241",
+    "message": "Default error handler triggered; reason:  syntax error at or near \"AS\"",
+    "parameters": [],
+    "position": "30",
+    "query": "SELECT MAX(\"courses\".\"seqNo\" AS \"max\" FROM \"COURSES\" \"courses\"",
+    "routine": "scanner_yyerror",
+    "severity": "ERROR",
+    "stack": "QueryFailedError: syntax error at or near \"AS\"\n    at PostgresQueryRunner.query (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\driver\\postgres\\PostgresQueryRunner.js:219:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SelectQueryBuilder.loadRawResults (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:2192:25)\n    at async SelectQueryBuilder.getRawMany (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:646:29)\n    at async SelectQueryBuilder.getRawOne (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:628:17)"
+}
+{
+    "level": "debug",
+    "message": "Called createCourse()"
+}
+{
+    "level": "error",
+    "message": "Error calling createCourse()"
+}
+{
+    "code": "42601",
+    "driverError": {
+        "code": "42601",
+        "file": "scan.l",
+        "length": 91,
+        "line": "1241",
+        "name": "error",
+        "position": "30",
+        "routine": "scanner_yyerror",
+        "severity": "ERROR"
+    },
+    "file": "scan.l",
+    "length": 91,
+    "level": "error",
+    "line": "1241",
+    "message": "Default error handler triggered; reason:  syntax error at or near \"AS\"",
+    "parameters": [],
+    "position": "30",
+    "query": "SELECT MAX(\"courses\".\"seqNo\" AS \"max\" FROM \"COURSES\" \"courses\"",
+    "routine": "scanner_yyerror",
+    "severity": "ERROR",
+    "stack": "QueryFailedError: syntax error at or near \"AS\"\n    at PostgresQueryRunner.query (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\driver\\postgres\\PostgresQueryRunner.js:219:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SelectQueryBuilder.loadRawResults (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:2192:25)\n    at async SelectQueryBuilder.getRawMany (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:646:29)\n    at async SelectQueryBuilder.getRawOne (C:\\Users\\josem\\OneDrive\\Escritorio\\24 Js Angular Projects\\Typescript Boot Camp\\Node-Rest-API\\node_modules\\typeorm\\query-builder\\SelectQueryBuilder.js:628:17)"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called createCourse()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "debug",
+    "message": "Called findCourseByUrl"
+}
+{
+    "level": "error",
+    "message": "Could not find a course with url 16"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "debug",
+    "message": "Called deleteCourseAndLessons()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
