@@ -4,12 +4,14 @@ const result = dotenv.config();
 import "reflect-metadata";  // we need reflect-metadata library available to typeorm
                             // to process the entity's decorators properly
 
-import {COURSES} from "./db-data"; // make use of the data
+import {COURSES, USERS} from "./db-data"; // make use of the data
 import { AppDataSource } from "../data-source";
 import { Course } from "./course";
 import { Lesson } from "./lesson";
+import { User } from "./user";
 
 import { DeepPartial } from "typeorm";
+import { calculatePasswordHash } from "../utils";
 
 // POPULATE DB SCRIPT
 async function populateDb() {
@@ -36,6 +38,27 @@ async function populateDb() {
             await lessonRepository.save(lesson);
         }
     }
+
+    const users = Object.values(USERS) as any[];
+
+    for (let userData of users) {
+
+        console.log(`Inserting user: ${userData}`);
+
+        const {email, pictureUrl, isAdmin, passwordSalt, plainTextPassword} = userData;
+
+        const user = AppDataSource
+            .getRepository(User)
+            .create({
+                email,
+                pictureUrl,
+                isAdmin,
+                passwordSalt,
+                passwordHash: await calculatePasswordHash(plainTextPassword, passwordSalt)
+            });
+
+        await AppDataSource.manager.save(user);
+        }
 
     const totalCourses = await courseRepository
         .createQueryBuilder()
