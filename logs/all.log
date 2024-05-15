@@ -861,3 +861,171 @@
     "level": "info",
     "message": "HTTP REST API Server is now running at http://localhost:9003"
 }
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called login()"
+}
+{
+    "level": "error",
+    "message": "Error calling login()"
+}
+{
+    "level": "error",
+    "message": "Default error handler triggered; reason: "
+}
+{
+    "level": "debug",
+    "message": "Called login()"
+}
+{
+    "level": "error",
+    "message": "Error calling login()"
+}
+{
+    "level": "error",
+    "message": "Default error handler triggered; reason: "
+}
+{
+    "level": "debug",
+    "message": "Called login()"
+}
+{
+    "level": "info",
+    "message": "Login denied. - user with test@angular-university.io has entered the wrong password"
+}
+{
+    "level": "debug",
+    "message": "Called login()"
+}
+{
+    "level": "info",
+    "message": "Login denied. - user with test@angular-university.io has entered the wrong password"
+}
+{
+    "level": "debug",
+    "message": "Called login()"
+}
+{
+    "level": "info",
+    "message": "Login denied. - user with test@angular-university.io has entered the wrong password"
+}
+{
+    "level": "debug",
+    "message": "Called login()"
+}
+{
+    "level": "info",
+    "message": "Login denied. - user with test@angular-university.io has entered the wrong password"
+}
+{
+    "level": "debug",
+    "message": "Called login()"
+}
+{
+    "level": "info",
+    "message": "Login denied. - user with admin@angular-university.io has entered the wrong password"
+}
+{
+    "level": "debug",
+    "message": "Called getAllCourses()"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "debug",
+    "message": "Called login()"
+}
+{
+    "level": "error",
+    "message": "Error calling login()"
+}
+{
+    "level": "error",
+    "message": "Default error handler triggered; reason: "
+}
+{
+    "level": "debug",
+    "message": "Called login()"
+}
+{
+    "level": "info",
+    "message": "Login denied. - user with test@angular-university.io has entered the wrong password"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}

@@ -1,10 +1,11 @@
 import { NextFunction, Request, Response } from "express";
-import { logger } from "../../dist/src/logger";
+import { logger } from "../logger";
 import { AppDataSource } from "../data-source";
 import { User } from "../models/user";
 import { calculatePasswordHash } from "../utils";
 
 const JWT_SECRET = process.env.JWT_SECRET;
+const jwt = require("jsonwebtoken");
 
 export async function login(
     request:Request, response:Response, next:NextFunction) {
@@ -65,14 +66,29 @@ export async function login(
             // anyone can create a false jwt
             // if these assumptions hold, our system is secure
 
+            // json web token
+            const authJwt = {
+                userId: user.id,
+                email,
+                isAdmin
+            };
+
+            const authJwtToken = jwt.sign(authJwt, JWT_SECRET);
+
             response.status(200).json({
                 user: {
                     email,
                     pictureUrl,
                     isAdmin
-                }
+                },
+                authJwtToken
             });
         }
+
+    /* To test this endpoint with powershell: example
+    Invoke-WebRequest -Method POST http://localhost:9003/api/login -ContentType "application/json" 
+    -Body '{"email": "test@angular-university.io", "password":"test"}'
+    */
 
         catch(error) {
             logger.error(`Error calling login()`);

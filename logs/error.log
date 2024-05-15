@@ -157,3 +157,27 @@
     "level": "error",
     "message": "Could not find a course with url 16"
 }
+{
+    "level": "error",
+    "message": "Error calling login()"
+}
+{
+    "level": "error",
+    "message": "Default error handler triggered; reason: "
+}
+{
+    "level": "error",
+    "message": "Error calling login()"
+}
+{
+    "level": "error",
+    "message": "Default error handler triggered; reason: "
+}
+{
+    "level": "error",
+    "message": "Error calling login()"
+}
+{
+    "level": "error",
+    "message": "Default error handler triggered; reason: "
+}
