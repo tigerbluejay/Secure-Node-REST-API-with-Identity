@@ -1029,3 +1029,11 @@
     "level": "info",
     "message": "HTTP REST API Server is now running at http://localhost:9003"
 }
+{
+    "level": "info",
+    "message": "The datasource has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API Server is now running at http://localhost:9003"
+}

@@ -25,6 +25,7 @@ import { deleteCourseAndLessons } from "./routes/delete-course";
 import { createUser } from "./routes/create-user";
 import { login } from "./routes/login";
 import { checkIfAuthenticated } from "./middlewares/authentication-middleware";
+import { checkIfAdmin } from "./middlewares/admin-only-middleware";
 
 const cors = require("cors"); // import the cors package
 const bodyParser = require("body-parser"); // import the body-parser package
@@ -66,7 +67,9 @@ function setupExpress() {
 
     app.route("/api/courses/:courseId").delete(checkIfAuthenticated, deleteCourseAndLessons);
 
-    app.route("/api/users").post(checkIfAuthenticated, createUser);
+    // the middlewears inside the post method in the example below are called sequentially
+    // first checkIfAuthenticated, then checkIfAdmin, then createUser
+    app.route("/api/users").post(checkIfAuthenticated, checkIfAdmin, createUser);
 
     app.route("/api/login").post(login);
 
