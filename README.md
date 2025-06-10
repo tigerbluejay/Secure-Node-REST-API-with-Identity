@@ -54,19 +54,28 @@ Defined in package.json:
 - npm run clear-db: Clear all data from the database.
 
 ### 🔧 Getting Started
-#### Clone the repository
+1. Clone the repository
+```bash
 git clone https://github.com/tigerbluejay/Secure-Node-REST-API-with-Identity.git
 cd Secure-Node-REST-API-with-Identity
+```
 
-####  Install dependencies
+2.  Install dependencies
+```bash
 npm install
+```
 
-####  Set environment variables
+3.  Set environment variables
+```bash
 cp .env.example .env
-####  Edit .env with your PostgreSQL credentials and JWT_SECRET
+```
 
-####  Start the server
+4.  Edit .env with your PostgreSQL credentials and JWT_SECRET
+
+5.  Start the server
+```bash
 npm start
+```
 
 ### 🌐 Environment Variables
 ```plaintext
